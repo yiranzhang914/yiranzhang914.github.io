@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,7 @@ Network Architecture
 Distributed Systems
 
 
-More Links
+Links
 ======
-
+My blog (keep updating from 2019): [Yiran Blog](https://yi-ran.github.io/)  
+Tiansuan: [Tiansuan Constellation](http://www.tiansuan.org.cn/)
