@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/crossDBT-europar
 excerpt: 'Wei Li, Xiaohui Luo, Yiran Zhang, Qingkai Meng and Fengyuan Ren'
 date: 2022-08-22
-venue: 'International European Conference on Parallel and Distributed Computing (Euro-Par'22)'
+venue: 'International European Conference on Parallel and Distributed Computing (Euro-Par)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
