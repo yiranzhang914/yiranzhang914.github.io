@@ -2,7 +2,7 @@
 title: "Performance Evaluation of Computer Networks and Computer systems, Teaching Assistant"
 collection: teaching
 type: "graduate"
-permalink: /teaching/2019-fall-teaching-3
+permalink: /teaching/2019-fall-teaching-2
 venue: "Tsinghua University, Computer Science and Technology Department"
 date: 2019-09-01
 #location: "City, Country"
