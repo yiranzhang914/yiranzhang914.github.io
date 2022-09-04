@@ -35,8 +35,6 @@ Publications
 7.Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network. *IEEE Symposium on Computers and Communications (**ISCC**, CCF C), 2017*
 
 
-
-
 Honors and Awards
 ======
 IEEE TCCLD Technology Innovation Award, 2022  
@@ -51,6 +49,6 @@ National Scholarship in BUPT, 2014, 2015, 2016
 
 Links
 ======
-Useful Links (keep updating): [Materials](https://yi-ran.github.io/2019/03/27/Useful-links/)
-My blog (keep updating): [Yiran Blog](https://yi-ran.github.io/)  
-Tiansuan: [Tiansuan Constellation](http://www.tiansuan.org.cn/)
+[Materials (keep updating)](https://yi-ran.github.io/2019/03/27/Useful-links/)  
+[Yiran Blog (keep updating)](https://yi-ran.github.io/)  
+[Tiansuan Constellation](http://www.tiansuan.org.cn/)
