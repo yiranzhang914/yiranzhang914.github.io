@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yiran Zhang"
   avatar           : "IMG_8728.PNG"
-  bio              : "PhD. at Tsinghua -> Faculty at BUPT"
+  bio              : "PhD at Tsinghua -> Faculty at BUPT"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uUSCsi0AAAAJ&hl=en"
   email            : yiranzhang@bupt.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yiran-Zhang-33?ev=hdr_xprf&_sg=LDblFWjyntnaPG3qPN4ika3j8DTbr8xf15PiD9sCBeTaDN0s6Y5ydaDZmWDXomRLs0XqEUOTgq1txwd3-83MvrZk"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yiranzhang914"
+  github           : "https://github.com/Yi-ran"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
