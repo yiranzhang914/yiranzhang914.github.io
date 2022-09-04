@@ -26,7 +26,7 @@ Publications
 
 3.**Yiran Zhang**, Kun Qian, Fengyuan Ren. [Receiver-Driven Congestion Control for InfiniBand](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472466). *Proceedings of the 50th International Conference on Parallel Processing (**ICPP**, CCF B), 2021*
 
-4.Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren. [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1)  (**<font color=red> Awarded Best Paper! </font>**)  *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF C), 2022*
+4.Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren. [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1). *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF C), 2022* (***<font color=red>Awarded Best Paper!</font>***)  
    
 5.Abdul Basit Dogar, **Yiran Zhang**. NUFTCP:Towards Smooth Network Updates in Software-Defined Datacenter Networks. *17th International Conference on Network and Service Management (**CNSM**), 2021*
 
