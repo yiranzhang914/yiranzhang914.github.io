@@ -3,7 +3,7 @@ title: "Congestion Detection in Lossless Networks"
 collection: publications
 permalink: /publication/tcd-sigcomm
 excerpt: "Yiran Zhang, Yifan Liu, Qingkai Meng, Fengyuan Ren"
-date: 2021
+date: 2021-08-23
 venue: 'SIGCOMM(Top 1 conference in computer networks)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3452296.3472899'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
