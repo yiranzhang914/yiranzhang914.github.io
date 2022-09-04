@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an assistant professor at Beijing University of Posts and Telecommunications (BUPT), with State Key Laboratory of Networking and Switching Technology, Computer Science Department. Before that, I received my Ph.D. from Tsinghua University in June 2022. For the first two years of my Ph.D, I was under the supervision of Prof. Jun Bi, who suddenly passed away in Feb., 2019. Then I switched to the supervision of Prof. [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html). I received my B.S. in computer science and technology from BUPT in 2017 (rank 1/304).
+I’m an assistant professor at Beijing University of Posts and Telecommunications (BUPT), with State Key Laboratory of Networking and Switching Technology, Computer Science Department. Before that, I received my Ph.D. from Tsinghua University in June 2022. For the first two years of my Ph.D, I was under the supervision of [Prof. Jun Bi](https://www.tsinghua.edu.cn/info/1715/70637.htm), who suddenly passed away in Feb., 2019. Then I switched to the supervision of [Prof. Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html). I received my B.S. in computer science and technology from BUPT in 2017 (rank 1/304).
 
 Research Interests
 ======
