@@ -1,9 +1,9 @@
 ---
 title: "Internet Architecture and Security, Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "graduate course"
 permalink: /teaching/2018-fall-teaching-1
-venue: "Tsinghua University, Institute for network sciences and cyberspace"
+venue: "Tsinghua University, Institute for Network Sciences and Cyberspace"
 date: 2018-09-01
 #location: "City, Country"
 ---
