@@ -1,5 +1,6 @@
 ---
-title: "CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator (Awarded Best Paper)"
+title: "CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator
+(Awarded Best Paper)"
 collection: publications
 permalink: /publication/crossDBT-europar
 excerpt: 'Wei Li, Xiaohui Luo, Yiran Zhang, Qingkai Meng and Fengyuan Ren'
