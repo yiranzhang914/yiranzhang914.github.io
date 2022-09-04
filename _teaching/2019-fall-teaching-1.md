@@ -1,7 +1,7 @@
 ---
 title: "Computer Networks, Teaching Assistant"
 collection: teaching
-type: "undergraduate"
+type: "undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
 venue: "Tsinghua University, Computer Science and Technology Department"
 date: 2019-09-01
