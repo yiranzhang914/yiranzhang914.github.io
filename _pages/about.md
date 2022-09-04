@@ -20,13 +20,13 @@ Network Architecture
 Publications
 ======
 
-1.**Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren. Congestion Detection in Lossless Networks. *Proceedings of the ACM Special Interest Group on Data Communication (**SIGCOMM**, CCF A), 2021.* (***<font color=red>Top 1 conference in computer networks </font>***)
+1.**Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren. [Congestion Detection in Lossless Networks](https://dl.acm.org/doi/10.1145/3452296.3472899). *Proceedings of the ACM Special Interest Group on Data Communication (**SIGCOMM**, CCF A), 2021.* (***<font color=red> Top 1 conference in computer networks </font>***)
 
-2.**Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang. VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks. *IEEE Journal on Selected Areas in Communications(**JSAC**, CCF A, IF=9.42), 2020*
+2.**Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang. [VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks](https://ieeexplore.ieee.org/document/9060887). *IEEE Journal on Selected Areas in Communications(**JSAC**, CCF A, IF=9.42), 2020*
 
-3.**Yiran Zhang**, Kun Qian, Fengyuan Ren. Receiver-Driven Congestion Control for InfiniBand. *Proceedings of the 50th International Conference on Parallel Processing (**ICPP**, CCF B), 2021*
+3.**Yiran Zhang**, Kun Qian, Fengyuan Ren. [Receiver-Driven Congestion Control for InfiniBand](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472466). *Proceedings of the 50th International Conference on Parallel Processing (**ICPP**, CCF B), 2021*
 
-4.Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren. CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator  (**Awarded Best Paper!**)  *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF C), 2022*
+4.Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren. [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1)  (**<font color=red> Awarded Best Paper! </font>**)  *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF C), 2022*
    
 5.Abdul Basit Dogar, **Yiran Zhang**. NUFTCP:Towards Smooth Network Updates in Software-Defined Datacenter Networks. *17th International Conference on Network and Service Management (**CNSM**), 2021*
 
@@ -42,7 +42,7 @@ Honors and Awards
 IEEE TCCLD Technology Innovation Award, 2022  
 IEEE TCCLD Early Carrer Award, 2022  
 Euro-Par Best Paper Award, 2022  
-Graduate Launch Award(Silver award), Tsinghua University, 2022  
+Graduate Launch Award (Silver award), Tsinghua University, 2022  
 Outstanding Graduate, Institute for Network Sciences and Cyberspace, Tsinghua University, 2022  
 First Class Scholarship, Tsinghua University, 2021  
 SIGCOMM Travel Grant, 2018  
