@@ -22,7 +22,7 @@ Publications
 
 1.**Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren. [Congestion Detection in Lossless Networks](https://dl.acm.org/doi/10.1145/3452296.3472899). *Proceedings of the ACM Special Interest Group on Data Communication (**SIGCOMM**, CCF A), 2021.* (***<font color=red> Top 1 conference in computer networks </font>***)
 
-2.**Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang. [VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks](https://ieeexplore.ieee.org/document/9060887). *IEEE Journal on Selected Areas in Communications(**JSAC**, CCF A, IF=9.42), 2020*
+2.**Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang. [VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks](https://ieeexplore.ieee.org/document/9060887). *IEEE Journal on Selected Areas in Communications(**JSAC**, CCF A, IF=11.42), 2020*
 
 3.**Yiran Zhang**, Kun Qian, Fengyuan Ren. [Receiver-Driven Congestion Control for InfiniBand](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472466). *Proceedings of the 50th International Conference on Parallel Processing (**ICPP**, CCF B), 2021*
 
