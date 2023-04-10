@@ -8,4 +8,4 @@ date: 2021-06-25
 location: "online"
 ---
 
-[Link](https://conferences.sigcomm.org/events/apnet2021/sigcomm.html)
+[More infomation](https://conferences.sigcomm.org/events/apnet2021/sigcomm.html)
