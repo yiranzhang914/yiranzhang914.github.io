@@ -8,6 +8,6 @@ date: 2021-07-31
 location: "Online"
 ---
 
-[Link](https://www.acmturc.com/2021/en/SIGCOMM_China.html)
+[More information](https://www.acmturc.com/2021/en/SIGCOMM_China.html)
 
 
