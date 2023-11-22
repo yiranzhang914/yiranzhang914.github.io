@@ -28,13 +28,17 @@ Publications
 
 4.**Yiran Zhang**, Kun Qian, Fengyuan Ren. [Receiver-Driven Congestion Control for InfiniBand](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472466). *Proceedings of the 50th International Conference on Parallel Processing (**ICPP**, CCF B), 2021*
 
-5.Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren. [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1). *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF B), 2022* (***<font color=red> Awarded Best Paper! </font>***)  
+5.Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren. Switch-assistant Loss Recovery for RDMA Transport Control. *IEEE/ACM Transactions on Networking (**ToN**, CCF A), 2024* 
+
+6.Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li,**Yiran Zhang**, Feng Qian, Shangguang Wang. Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis. *International Conference On Mobile Computing And Networking (**MOBICOM**, CCF A) 2024* (To appear)
+
+7.Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren. [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1). *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF B), 2022* (***<font color=red> Awarded Best Paper! </font>***)  
    
-6.Abdul Basit Dogar, **Yiran Zhang**. NUFTCP:Towards Smooth Network Updates in Software-Defined Datacenter Networks. *17th International Conference on Network and Service Management (**CNSM**), 2021*
+8.Abdul Basit Dogar, **Yiran Zhang**. NUFTCP:Towards Smooth Network Updates in Software-Defined Datacenter Networks. *17th International Conference on Network and Service Management (**CNSM**), 2021*
 
-7.Zhaogeng Li, Jun Bi, **Yiran Zhang**, Abdul Basit Dogar, Chengwei Qin. VMS: Traffic balancing based on virtual switches in datacenter networks. *IEEE International Conference on Network Protocols (**ICNP**, CCF B), 2017*
+9.Zhaogeng Li, Jun Bi, **Yiran Zhang**, Abdul Basit Dogar, Chengwei Qin. VMS: Traffic balancing based on virtual switches in datacenter networks. *IEEE International Conference on Network Protocols (**ICNP**, CCF B), 2017*
 
-8.Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network. *IEEE Symposium on Computers and Communications (**ISCC**, CCF C), 2017*
+10.Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network. *IEEE Symposium on Computers and Communications (**ISCC**, CCF C), 2017*
 
 
 Honors and Awards
