@@ -35,7 +35,7 @@ Publications
 
 - Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren. Explicit Dropping Notification in Data Centers. *IEEE International Conference on Computer Communications (**INFOCOM**, CCF A), 2024* (To appear)
 
-- Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang. Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. (**BlockSys**),2023 (***<Awarded Best Paper!***)
+- Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang. Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. (**BlockSys**),2023 (***Awarded Best Paper!***)
 
 - Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang. Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. (**ICWS**, CCF B), 2023* (***<font color=red> Awarded Best Paper! </font>***) 
 
