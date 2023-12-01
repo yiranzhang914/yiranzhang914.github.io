@@ -34,7 +34,7 @@ Publications
 
 7.Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li,**Yiran Zhang**, Feng Qian, Shangguang Wang. Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis. *International Conference On Mobile Computing And Networking (**MOBICOM**, CCF A) 2024* (To appear)
 
-8. Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu. Resource-efficient In-orbit Detection of Earth Objects. *IEEE International Conference on Computer Communications (**INFOCOM**, CCF A), 2024* (To appear) 
+8.Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu. Resource-efficient In-orbit Detection of Earth Objects. *IEEE International Conference on Computer Communications (**INFOCOM**, CCF A), 2024* (To appear) 
 
 9.Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren. [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1). *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF B), 2022* (***<font color=red> Awarded Best Paper! </font>***)  
    
