@@ -36,6 +36,7 @@ Satellite Network
 - Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu. Resource-efficient In-orbit Detection of Earth Objects. *IEEE International Conference on Computer Communications (**INFOCOM**, CCF A), 2024* (To appear)
 - Chuanxiu Chi, **Yiran Zhang**, Qibo Sun, Shangguang Wang. [SABM: Adaptive Backup Mechanism for Satellite Services](https://dl.acm.org/doi/pdf/10.1145/3614454.3622996) *1st ACM MobiCom Workshop on Satellite Networking and Computing (SatCom ’23) (**MOBICOM Satcom**, CCF A) 2023*
 
+
 # Honors and Awards
 IEEE TCCLD Technology Innovation Award, 2022  
 IEEE TCCLD Early Carrer Award, 2022  
