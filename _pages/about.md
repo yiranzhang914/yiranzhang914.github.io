@@ -19,7 +19,7 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
-- Revisiting Congestion Control for Lossless Ethernet. *USENIX Symposium on Networked Systems Design and Implementation (**NSDI**, CCF A), 2024 (To appear)  
+- Revisiting Congestion Control for Lossless Ethernet. *USENIX Symposium on Networked Systems Design and Implementation (**NSDI**, CCF A), 2024 (To appear)*  
    (***<font color=blue> Top tier conference in computer networks </font>***)  
    **Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren.
 - Switch-assistant Loss Recovery for RDMA Transport Control. *IEEE/ACM Transactions on Networking (**TON**, CCF A), 2024*  
