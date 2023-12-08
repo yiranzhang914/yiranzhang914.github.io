@@ -19,36 +19,36 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
-1. Revisiting Congestion Control for Lossless Ethernet. *USENIX Symposium on Networked Systems Design and Implementation (**NSDI**, CCF A), 2024 (To appear)*
+- Revisiting Congestion Control for Lossless Ethernet. *USENIX Symposium on Networked Systems Design and Implementation (**NSDI**, CCF A), 2024 (To appear)*
    (***<font color=red> Top tier conference in computer networks </font>***)  
    **Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren.
-2. Switch-assistant Loss Recovery for RDMA Transport Control. *IEEE/ACM Transactions on Networking (**TON**, CCF A), 2024*  
+- Switch-assistant Loss Recovery for RDMA Transport Control. *IEEE/ACM Transactions on Networking (**TON**, CCF A), 2024*  
    Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren
-3. Explicit Dropping Notification in Data Centers. *IEEE International Conference on Computer Communications (**INFOCOM**, CCF A), 2024* (To appear)  
+- Explicit Dropping Notification in Data Centers. *IEEE International Conference on Computer Communications (**INFOCOM**, CCF A), 2024* (To appear)  
    Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren.
-4. [Revisiting Congestion Detection in Lossless Networks](https://ieeexplore.ieee.org/document/10068180). *IEEE/ACM Transactions on Networking (**TON**, CCF A), 2023*  
+- [Revisiting Congestion Detection in Lossless Networks](https://ieeexplore.ieee.org/document/10068180). *IEEE/ACM Transactions on Networking (**TON**, CCF A), 2023*  
    **Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren.
-5. Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. (**BlockSys**),2023
+- Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. (**BlockSys**),2023
    (***Awarded Best Paper!***)  
    Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang.  
-6. Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. (**ICWS**, CCF B), 2023*
+- Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. (**ICWS**, CCF B), 2023*
    (***<font color=red> Awarded Best Paper! </font>***)   
    Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang.
-7. [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1). *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF B), 2022*
+- [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1). *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF B), 2022*
     (***<font color=red> Awarded Best Paper! </font>***)   
     Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren.
-8. [Congestion Detection in Lossless Networks](https://dl.acm.org/doi/10.1145/3452296.3472899). *Proceedings of the ACM Special Interest Group on Data Communication (**SIGCOMM**, CCF A), 2021.*  
+- [Congestion Detection in Lossless Networks](https://dl.acm.org/doi/10.1145/3452296.3472899). *Proceedings of the ACM Special Interest Group on Data Communication (**SIGCOMM**, CCF A), 2021.*  
    (***<font color=red> Top tier conference in computer networks </font>***)  
     **Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren.
-9. [Receiver-Driven Congestion Control for InfiniBand](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472466). *Proceedings of the 50th International Conference on Parallel Processing (**ICPP**, CCF B), 2021*   
+- [Receiver-Driven Congestion Control for InfiniBand](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472466). *Proceedings of the 50th International Conference on Parallel Processing (**ICPP**, CCF B), 2021*   
     **Yiran Zhang**, Kun Qian, Fengyuan Ren.
-10. [VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks](https://ieeexplore.ieee.org/document/9060887). *IEEE Journal on Selected Areas in Communications (**JSAC**, CCF A, IF=11.42), 2020*    
+- [VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks](https://ieeexplore.ieee.org/document/9060887). *IEEE Journal on Selected Areas in Communications (**JSAC**, CCF A, IF=11.42), 2020*    
     **Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang.
-11. NUFTCP: Towards Smooth Network Updates in Software-Defined Datacenter Networks. *17th International Conference on Network and Service Management (**CNSM**), 2021*  
+- NUFTCP: Towards Smooth Network Updates in Software-Defined Datacenter Networks. *17th International Conference on Network and Service Management (**CNSM**), 2021*  
     Abdul Basit Dogar, **Yiran Zhang**.
-12. VMS: Traffic balancing based on virtual switches in datacenter networks. *IEEE International Conference on Network Protocols (**ICNP**, CCF B), 2017*  
+- VMS: Traffic balancing based on virtual switches in datacenter networks. *IEEE International Conference on Network Protocols (**ICNP**, CCF B), 2017*  
     Zhaogeng Li, Jun Bi, **Yiran Zhang**, Abdul Basit Dogar, Chengwei Qin.
-13. EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network. *IEEE Symposium on Computers and Communications (**ISCC**, CCF C), 2017*    
+- EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network. *IEEE Symposium on Computers and Communications (**ISCC**, CCF C), 2017*    
     Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. 
   
 ## Satellite Networking and Computing
