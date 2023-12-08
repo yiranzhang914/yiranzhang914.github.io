@@ -19,42 +19,42 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
-- [**NSDI'24**]Revisiting Congestion Control for Lossless Ethernet.
+- [**NSDI'24**] Revisiting Congestion Control for Lossless Ethernet.
    <font color=red> Top tier conference in computer networks </font>   
    **Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren.
    *<font color=blue>Together with TCD[SICOMM'21], we build a new world of congestion control in lossless networks !!<font color=blue>*
-- [**TON'24**]Switch-assistant Loss Recovery for RDMA Transport Control.     
+- [**TON'24**] Switch-assistant Loss Recovery for RDMA Transport Control.     
    Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren
-- [**INFOCOM'24**]Explicit Dropping Notification in Data Centers.   
+- [**INFOCOM'24**] Explicit Dropping Notification in Data Centers.   
    Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren.
-- [**TON'24**]Revisiting Congestion Detection in Lossless Networks.   
+- [**TON'24**] Revisiting Congestion Detection in Lossless Networks.   
    **Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren.
-- [**Blocksys'23**]Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission.(*Awarded Best Paper!*)   
+- [**Blocksys'23**] Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission.(*Awarded Best Paper!*)   
    Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang.  
-- [**ICWS'23**]Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing.(*<font color=red> Awarded Best Paper! </font>*)   
+- [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing.(*<font color=red> Awarded Best Paper! </font>*)   
    Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang.
-- [**Euro-Par'22**]CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator.(*<font color=red> Awarded Best Paper! </font>*)     
+- [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator.(*<font color=red> Awarded Best Paper! </font>*)     
     Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren.
-- [**SIGCOMM'21**]Congestion Detection in Lossless Networks.
-    <font color=red> Top tier conference in computer networks </font>      
-    **Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren.
-- [**ICPP'21**]Receiver-Driven Congestion Control for InfiniBand.     
+- [**SIGCOMM'21**] Congestion Detection in Lossless Networks.
+  <font color=red> Top tier conference in computer networks </font>
+  **Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren.
+- [**ICPP'21**] Receiver-Driven Congestion Control for InfiniBand.     
     **Yiran Zhang**, Kun Qian, Fengyuan Ren.
-- [**JSAC'20**]VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks.      
+- [**JSAC'20**] VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks.      
     **Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang.
-- [**CNSM'21**]NUFTCP: Towards Smooth Network Updates in Software-Defined Datacenter Networks.     
+- [**CNSM'21**] NUFTCP: Towards Smooth Network Updates in Software-Defined Datacenter Networks.     
     Abdul Basit Dogar, **Yiran Zhang**.
-- [**ICNP'17**]VMS: Traffic balancing based on virtual switches in datacenter networks.
+- [**ICNP'17**] VMS: Traffic balancing based on virtual switches in datacenter networks.
     Zhaogeng Li, Jun Bi, **Yiran Zhang**, Abdul Basit Dogar, Chengwei Qin.
-- [**ISCC'17**]EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network.       
+- [**ISCC'17**] EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network.       
     Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. 
   
 ## Satellite Networking and Computing
-- [**MOBICOM'24**]Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis.  
+- [**MOBICOM'24**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis.  
    Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li,**Yiran Zhang**, Feng Qian, Shangguang Wang.
-- [**INFOCOM'24**]Resource-efficient In-orbit Detection of Earth Objects.    
+- [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects.    
    Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu. 
-- [**Satcom'23**]SABM: Adaptive Backup Mechanism for Satellite Services.     
+- [**Satcom'23**] SABM: Adaptive Backup Mechanism for Satellite Services.     
    Chuanxiu Chi, **Yiran Zhang**, Qibo Sun, Shangguang Wang. 
 
 
