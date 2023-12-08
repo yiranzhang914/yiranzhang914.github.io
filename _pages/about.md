@@ -31,7 +31,7 @@ Satellite Network
 - Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. (**BlockSys**),2023
    (***Awarded Best Paper!***)  
    Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang.  
-- Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. (**ICWS**, CCF B), 2023*
+- Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. (**ICWS**, CCF B), 2023
    (***<font color=red> Awarded Best Paper! </font>***)   
    Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang.
 - [CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator](https://dl.acm.org/doi/abs/10.1007/978-3-031-12597-3_1). *International European Conference on Parallel and Distributed Computing (**Euro-Par**, CCF B), 2022*
