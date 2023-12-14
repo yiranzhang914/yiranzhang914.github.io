@@ -19,7 +19,7 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
-- [**NSDI'24**] Revisiting Congestion Control for Lossless Ethernet.       
+- [<font color=red>**NSDI'24**</font>] Revisiting Congestion Control for Lossless Ethernet.       
    **Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren.
 - [**TON'24**] Switch-assistant Loss Recovery for RDMA Transport Control.     
    Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren
@@ -29,9 +29,9 @@ Satellite Network
    **Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren.
 - [**Blocksys'23**] Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. *Awarded Best Paper!*  
    Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang.  
-- [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. *<font color=red> Awarded Best Paper! </font>*   
+- [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. *Awarded Best Paper!*   
    Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang.
-- [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator. *<font color=red> Awarded Best Paper! </font>*       
+- [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator. *Awarded Best Paper!*       
     Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren.
 - [**SIGCOMM'21**] Congestion Detection in Lossless Networks.  
   **Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren.
