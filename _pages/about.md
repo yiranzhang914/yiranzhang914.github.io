@@ -47,7 +47,7 @@ Satellite Network
     Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. 
   
 ## Satellite Networking and Computing
-- [**MOBICOM'24**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis.  
+- [**<font color=red>MOBICOM'24</font>**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis.  
    Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li,**Yiran Zhang**, Feng Qian, Shangguang Wang.
 - [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects.    
    Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu. 
