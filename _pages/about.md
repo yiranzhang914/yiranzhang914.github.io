@@ -69,4 +69,4 @@ National Scholarship in BUPT, 2014, 2015, 2016
 # Links
 [Materials (keep updating)](https://yi-ran.github.io/2019/03/27/Useful-links/)  
 [Yiran Blog (keep updating)](https://yi-ran.github.io/)  
-[Tiansuan Constellation](http://www.tiansuan.org.cn/)
+
