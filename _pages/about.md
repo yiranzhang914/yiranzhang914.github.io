@@ -33,7 +33,7 @@ Satellite Network
    Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang.
 - [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator. *<font color=blue> Awarded Best Paper!</font>*       
     Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren.
-- [**<font color=red>SIGCOMM'21</font>**] [Congestion Detection in Lossless Networks](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472899.pdf) 
+- [**<font color=red>SIGCOMM'21</font>**] Congestion Detection in Lossless Networks.      
   **Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren.
 - [**ICPP'21**] Receiver-Driven Congestion Control for InfiniBand.     
     **Yiran Zhang**, Kun Qian, Fengyuan Ren.
