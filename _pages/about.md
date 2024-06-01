@@ -19,6 +19,9 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
+- [**ATC'24**] CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation.
+  2024 USENIX Annual Technical Conference (USENIX ATC '24)    
+  Chen Gao, Xiangwei Meng, Wei Li, Jinhui Lai,**Yiran Zhang** and Fengyuan Ren.
 - [**<font color=red>NSDI'24</font>**] Revisiting Congestion Control for Lossless Ethernet.       
    **Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren.
 - [**INFOCOM'24**] Explicit Dropping Notification in Data Centers.   
@@ -47,6 +50,8 @@ Satellite Network
     Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. 
   
 ## Satellite Networking and Computing
+- [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing
+  ipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang.
 - [**<font color=red>MOBICOM'24</font>**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis.  
    Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li,**Yiran Zhang**, Feng Qian, Shangguang Wang.
 - [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects.    
