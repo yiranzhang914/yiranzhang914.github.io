@@ -25,18 +25,18 @@ Satellite Network
 - [**<font color=red>NSDI'24</font>**] Revisiting Congestion Control for Lossless Ethernet.   
    USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024       
    **Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren.
-- [**INFOCOM'24**] Explicit Dropping Notification in Data Centers.
+- [**INFOCOM'24**] Explicit Dropping Notification in Data Centers.    
    International Conference on Computer Communications(INFOCOM), 2024      
    Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren.
-- [**TON'23**] Switch-assistant Loss Recovery for RDMA Transport Control.
+- [**TON'23**] Switch-assistant Loss Recovery for RDMA Transport Control.    
    IEEE/ACM Transactions on Networking      
    Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren
-- [**TON'23**] Revisiting Congestion Detection in Lossless Networks.
+- [**TON'23**] Revisiting Congestion Detection in Lossless Networks.    
    IEEE/ACM Transactions on Networking     
    **Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren.
 - [**Blocksys'23**] Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. *<font color=blue> Awarded Best Paper!</font>*  
    Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang.  
-- [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. *<font color=blue> Awarded Best Paper!</font>*
+- [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. *<font color=blue> Awarded Best Paper!</font>*    
    International Conference on Web Services(ICWS), 2023      
    Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang.
 - [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator. *<font color=blue> Awarded Best Paper!</font>*       
@@ -55,13 +55,13 @@ Satellite Network
     Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. 
   
 ## Satellite Networking and Computing
-- [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing
+- [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing    
    International Conference on Web Services(ICWS), 2024      
    Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang.
-- [**<font color=red>MOBICOM'24</font>**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis
+- [**<font color=red>MOBICOM'24</font>**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis     
    The Annual International Conference on Mobile Computing and Networking (MobiCom), 2024        
    Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li,**Yiran Zhang**, Feng Qian, Shangguang Wang.
-- [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects
+- [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects    
    International Conference on Computer Communications(INFOCOM), 2024      
    Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu. 
 - [**Satcom'23**] SABM: Adaptive Backup Mechanism for Satellite Services.     
