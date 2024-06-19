@@ -22,50 +22,75 @@ Satellite Network
 - [**ATC'24**] CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation.   
    USENIX Annual Technical Conference, 2024             
    *Chen Gao, Xiangwei Meng, Wei Li, Jinhui Lai,**Yiran Zhang** and Fengyuan Ren*
+  
 - [**<font color=red>NSDI'24</font>**] Revisiting Congestion Control for Lossless Ethernet.   
    USENIX Symposium on Networked Systems Design and Implementation, 2024       
    ***Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren*
+  
 - [**INFOCOM'24**] Explicit Dropping Notification in Data Centers.    
    International Conference on Computer Communications, 2024      
    *Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren*
+  
 - [**TON'23**] Switch-assistant Loss Recovery for RDMA Transport Control.    
-   IEEE/ACM Transactions on Networking      
+   IEEE/ACM Transactions on Networking, 2023      
    *Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren*
+  
 - [**TON'23**] Revisiting Congestion Detection in Lossless Networks.    
-   IEEE/ACM Transactions on Networking     
+   IEEE/ACM Transactions on Networking, 2023     
    ***Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren*
+  
 - [**Blocksys'23**] Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. *<font color=blue> Awarded Best Paper!</font>*  
-   *Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang*  
+   *Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang*
+  
 - [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. *<font color=blue> Awarded Best Paper!</font>*    
    International Conference on Web Services, 2023      
    *Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang*
-- [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator. *<font color=blue> Awarded Best Paper!</font>*       
+  
+- [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator. *<font color=blue> Awarded Best Paper!</font>*
+    European Conference on Parallel Processing, 2022           
     *Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren*
-- [**<font color=red>SIGCOMM'21</font>**] Congestion Detection in Lossless Networks      
+- [**<font color=red>SIGCOMM'21</font>**] Congestion Detection in Lossless Networks
+    ACM Special Interest Group on Data Communication, 2021         
   ***Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren*
+  
 - [**ICPP'21**] Receiver-Driven Congestion Control for InfiniBand.     
+    The International Conference on Parallel Processing, 2021         
     ***Yiran Zhang**, Kun Qian, Fengyuan Ren*
-- [**JSAC'20**] VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks.      
-    ***Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang*
-- [**CNSM'21**] NUFTCP: Towards Smooth Network Updates in Software-Defined Datacenter Networks.     
+  
+- [**CNSM'21**] NUFTCP: Towards Smooth Network Updates in Software-Defined Datacenter Networks.
+    International Conference on Network and Service Management, 2021        
     *Abdul Basit Dogar, **Yiran Zhang***
+  
+- [**JSAC'20**] VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks.
+    IEEE Journal on Selected Areas in Communications, 2020         
+    ***Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang*
+  
 - [**ICNP'17**] VMS: Traffic balancing based on virtual switches in datacenter networks.
+    IEEE International Conference on Network Protocols, 2017       
     *Zhaogeng Li, Jun Bi, **Yiran Zhang**, Abdul Basit Dogar, Chengwei Qin*
-- [**ISCC'17**] EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network.       
-    *Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang* 
+  
+- [**ISCC'17**] EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network.
+    IEEE Symposium on Computers and Communications, 2017           
+    *Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang*
+   
   
 ## Satellite Networking and Computing
 - [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing    
    International Conference on Web Services, 2024      
    *Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang*
+  
 - [**<font color=red>MOBICOM'24</font>**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis     
    International Conference on Mobile Computing and Networking, 2024        
    *Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li, **Yiran Zhang**, Feng Qian, Shangguang Wang*
+  
 - [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects    
-   International Conference on Computer Communications(INFOCOM), 2024      
+   International Conference on Computer Communications, 2024      
    *Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu*
-- [**Satcom'23**] SABM: Adaptive Backup Mechanism for Satellite Services.     
+  
+- [**Satcom'23**] SABM: Adaptive Backup Mechanism for Satellite Services.
+    1st ACM Workshop on Satellite Communication, 2023       
    *Chuanxiu Chi, **Yiran Zhang**, Qibo Sun, Shangguang Wang*
+  
 
 
 # Honors and Awards
