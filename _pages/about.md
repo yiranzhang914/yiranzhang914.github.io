@@ -20,52 +20,52 @@ Satellite Network
 ## Datacenter Networking and Computing
  (#: corresponding author)
 - [**ATC'24**] CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation.   
-   USENIX Annual Technical Conference (USENIX ATC), 2024             
-   Chen Gao, Xiangwei Meng, Wei Li, Jinhui Lai,**Yiran Zhang** and Fengyuan Ren.
+   USENIX Annual Technical Conference, 2024             
+   *Chen Gao, Xiangwei Meng, Wei Li, Jinhui Lai,**Yiran Zhang** and Fengyuan Ren*
 - [**<font color=red>NSDI'24</font>**] Revisiting Congestion Control for Lossless Ethernet.   
-   USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024       
-   **Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren.
+   USENIX Symposium on Networked Systems Design and Implementation, 2024       
+   ***Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren*
 - [**INFOCOM'24**] Explicit Dropping Notification in Data Centers.    
-   International Conference on Computer Communications(INFOCOM), 2024      
-   Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren.
+   International Conference on Computer Communications, 2024      
+   *Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren*
 - [**TON'23**] Switch-assistant Loss Recovery for RDMA Transport Control.    
    IEEE/ACM Transactions on Networking      
-   Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren
+   *Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren*
 - [**TON'23**] Revisiting Congestion Detection in Lossless Networks.    
    IEEE/ACM Transactions on Networking     
-   **Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren.
+   ***Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren*
 - [**Blocksys'23**] Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission. *<font color=blue> Awarded Best Paper!</font>*  
-   Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang.  
+   *Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang*  
 - [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing. *<font color=blue> Awarded Best Paper!</font>*    
-   International Conference on Web Services(ICWS), 2023      
-   Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang.
+   International Conference on Web Services, 2023      
+   *Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang*
 - [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator. *<font color=blue> Awarded Best Paper!</font>*       
-    Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren.
-- [**<font color=red>SIGCOMM'21</font>**] Congestion Detection in Lossless Networks.      
-  **Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren.
+    *Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren*
+- [**<font color=red>SIGCOMM'21</font>**] Congestion Detection in Lossless Networks      
+  ***Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren*
 - [**ICPP'21**] Receiver-Driven Congestion Control for InfiniBand.     
-    **Yiran Zhang**, Kun Qian, Fengyuan Ren.
+    ***Yiran Zhang**, Kun Qian, Fengyuan Ren*
 - [**JSAC'20**] VMS: Load Balancing Based on the Virtual Switch Layer in Datacenter Networks.      
-    **Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang.
+    ***Yiran Zhang**, Jun Bi, Zhaogeng Li, Yu Zhou, Yangyang Wang*
 - [**CNSM'21**] NUFTCP: Towards Smooth Network Updates in Software-Defined Datacenter Networks.     
-    Abdul Basit Dogar, **Yiran Zhang**.
+    *Abdul Basit Dogar, **Yiran Zhang***
 - [**ICNP'17**] VMS: Traffic balancing based on virtual switches in datacenter networks.
-    Zhaogeng Li, Jun Bi, **Yiran Zhang**, Abdul Basit Dogar, Chengwei Qin.
+    *Zhaogeng Li, Jun Bi, **Yiran Zhang**, Abdul Basit Dogar, Chengwei Qin*
 - [**ISCC'17**] EAalo: Enhanced coflow scheduling without prior knowledge in a datacenter network.       
-    Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang. 
+    *Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang* 
   
 ## Satellite Networking and Computing
 - [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing    
-   International Conference on Web Services(ICWS), 2024      
-   Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang.
+   International Conference on Web Services, 2024      
+   *Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang*
 - [**<font color=red>MOBICOM'24</font>**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis     
-   The Annual International Conference on Mobile Computing and Networking (MobiCom), 2024        
-   Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li,**Yiran Zhang**, Feng Qian, Shangguang Wang.
+   International Conference on Mobile Computing and Networking, 2024        
+   *Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li, **Yiran Zhang**, Feng Qian, Shangguang Wang*
 - [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects    
    International Conference on Computer Communications(INFOCOM), 2024      
-   Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu. 
+   *Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu*
 - [**Satcom'23**] SABM: Adaptive Backup Mechanism for Satellite Services.     
-   Chuanxiu Chi, **Yiran Zhang**, Qibo Sun, Shangguang Wang. 
+   *Chuanxiu Chi, **Yiran Zhang**, Qibo Sun, Shangguang Wang*
 
 
 # Honors and Awards
@@ -76,7 +76,13 @@ Graduate Launch Award (Silver award), Tsinghua University, 2022
 Outstanding Graduate, Institute for Network Sciences and Cyberspace, Tsinghua University, 2022  
 First Class Scholarship, Tsinghua University, 2021  
 SIGCOMM Travel Grant, 2018  
-National Scholarship in BUPT, 2014, 2015, 2016  
+National Scholarship in BUPT, 2014, 2015, 2016 
+
+# Services
+Program committee:   
+NSDI 2025   
+ICA3PP 2024,2025
+
 
 
 # Links
