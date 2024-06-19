@@ -19,11 +19,11 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
-- [**ATC'24**] CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation   
+- [**ATC'24**] CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation    
    USENIX Annual Technical Conference, 2024             
    *Chen Gao, Xiangwei Meng, Wei Li, Jinhui Lai,**Yiran Zhang** and Fengyuan Ren*
   
-- [**<font color=red>NSDI'24</font>**] Revisiting Congestion Control for Lossless Ethernet   
+- [**<font color=red>NSDI'24</font>**] Revisiting Congestion Control for Lossless Ethernet        
    USENIX Symposium on Networked Systems Design and Implementation, 2024       
    ***Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren*
   
@@ -31,24 +31,27 @@ Satellite Network
    International Conference on Computer Communications, 2024      
    *Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren*
   
-- [**TON'23**] Switch-assistant Loss Recovery for RDMA Transport Control.    
+- [**TON'23**] Switch-assistant Loss Recovery for RDMA Transport Control            
    IEEE/ACM Transactions on Networking, 2023      
    *Qingkai Meng, **Yiran Zhang#**, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo and Fengyuan Ren*
   
-- [**TON'23**] Revisiting Congestion Detection in Lossless Networks    
+- [**TON'23**] Revisiting Congestion Detection in Lossless Networks        
    IEEE/ACM Transactions on Networking, 2023     
    ***Yiran Zhang**, Qingkai Meng, Yifan Liu, Fengyuan Ren*
   
-- [**Blocksys'23**] Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission *<font color=blue> Awarded Best Paper!</font>*  
-   *Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang*
+- [**Blocksys'23**] Congestion Control with Receiver-Aided Network Status Awareness in RDMA Transmission         
+   *Tianshi Wang, **Yiran Zhang#**, Ao Zhou, Ruidong Li, Kun Zhao, Shangguang Wang*    
+  *<font color=blue> Awarded Best Paper!</font>*
   
-- [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing *<font color=blue> Awarded Best Paper!</font>*    
+- [**ICWS'23**] Container Image Similarity-Aware Resource Provisioning for Serverless Edge Computing           
    International Conference on Web Services, 2023      
-   *Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang*
+   *Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang*    
+   *<font color=blue> Awarded Best Paper!</font>*
   
-- [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator *<font color=blue> Awarded Best Paper!</font>*    
+- [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator       
     European Conference on Parallel Processing, 2022           
     *Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren*    
+   *<font color=blue> Awarded Best Paper!</font>*     
      
 - [**<font color=red>SIGCOMM'21</font>**] Congestion Detection in Lossless Networks      
     ACM Special Interest Group on Data Communication, 2021         
