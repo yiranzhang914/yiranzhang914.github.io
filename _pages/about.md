@@ -19,6 +19,14 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
+- [**SIGCOMM'24**](poster) Adaptive Load Balancing with Flow Block for LLM    
+   ACM Special Interest Group on Data Communication, 2024             
+   *Xingyi Li, **Yiran Zhang#**, Hu Zhang and Shangguang Wang*
+
+- [**IEEE Network'24**] Predictable Host Networking in Data Centers: Challenges, Techniques and Future Directions    
+   IEEE Network (Volume: 38, Issue: 6, November 2024)             
+   *Zhongjie Chen, Qingkai Meng,**Yiran Zhang**, Ziyang Zheng and Fengyuan Ren*
+ 
 - [**ATC'24**] CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation    
    USENIX Annual Technical Conference, 2024             
    *Chen Gao, Xiangwei Meng, Wei Li, Jinhui Lai,**Yiran Zhang** and Fengyuan Ren*
@@ -79,6 +87,10 @@ Satellite Network
    
   
 ## Satellite Networking and Computing
+- [**SIGCOMM'24**](poster) An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links    
+   ACM Special Interest Group on Data Communication, 2024             
+   *Zuo Zhu, Ruolin Xing, **Yiran Zhang**, Chaoxin Yu, Ao Zhou, Shangguang Wang*
+  
 - [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing        
    International Conference on Web Services, 2024      
    *Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang*
