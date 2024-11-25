@@ -19,7 +19,7 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)
-- [**SIGCOMM'24**](poster) Adaptive Load Balancing with Flow Block for LLM    
+- [**SIGCOMM'24**] (poster) Adaptive Load Balancing with Flow Block for LLM    
    ACM Special Interest Group on Data Communication, 2024             
    *Xingyi Li, **Yiran Zhang#**, Hu Zhang and Shangguang Wang*
 
@@ -87,7 +87,7 @@ Satellite Network
    
   
 ## Satellite Networking and Computing
-- [**SIGCOMM'24**](poster) An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links    
+- [**SIGCOMM'24**] (poster) An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links    
    ACM Special Interest Group on Data Communication, 2024             
    *Zuo Zhu, Ruolin Xing, **Yiran Zhang**, Chaoxin Yu, Ao Zhou, Shangguang Wang*
   
