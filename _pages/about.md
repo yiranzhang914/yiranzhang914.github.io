@@ -114,8 +114,9 @@ Satellite Network
 
 
 # Honors and Awards
+N2Women Rising Star, 2024
 IEEE TCCLD Technology Innovation Award, 2022  
-IEEE TCCLD Early Carrer Award, 2022  
+IEEE TCSVC Early Carrer Award, 2022  
 Euro-Par Best Paper Award, 2022  
 Graduate Launch Award (Silver award), Tsinghua University, 2022  
 Outstanding Graduate, Institute for Network Sciences and Cyberspace, Tsinghua University, 2022  
