@@ -114,7 +114,7 @@ Satellite Network
 
 
 # Honors and Awards
-N2Women Rising Star, 2024
+N2Women Rising Star, 2024    
 IEEE TCCLD Technology Innovation Award, 2022  
 IEEE TCSVC Early Carrer Award, 2022  
 Euro-Par Best Paper Award, 2022  
