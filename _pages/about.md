@@ -26,7 +26,11 @@ Satellite Network
 - [**IEEE Network'24**] Predictable Host Networking in Data Centers: Challenges, Techniques and Future Directions    
    IEEE Network (Volume: 38, Issue: 6, November 2024)             
    *Zhongjie Chen, Qingkai Meng,**Yiran Zhang**, Ziyang Zheng and Fengyuan Ren*
- 
+
+- [**EuroMLSys'24**]FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission
+  EuroSys Workshop on Machine Learning and Systems                 
+   *Zeling Zhang, Dongqi Cai,**Yiran Zhang**, Mengwei Xu, Shangguang Wang and Ao Zhou*
+
 - [**ATC'24**] CrossMapping: Harmonizing Memory Consistency in Cross-ISA Binary Translation    
    USENIX Annual Technical Conference, 2024             
    *Chen Gao, Xiangwei Meng, Wei Li, Jinhui Lai,**Yiran Zhang** and Fengyuan Ren*
