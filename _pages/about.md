@@ -22,7 +22,7 @@ Satellite Network
  
 - [**ToN'25**] ACK-Driven Congestion Control for Lossless Ethernet    
    IEEE/ACM Transactions on Networking, 2025                   
-   **Yiran Zhang**, Qingkai Meng, Chaolei Hu, Hu Zhang, Shangguang Wang and Fengyuan Ren*
+   **Yiran Zhang**, Qingkai Meng, Chaolei Hu, Hu Zhang, Shangguang Wang and Fengyuan Ren
  
 - [**SIGCOMM'24**] (poster) Adaptive Load Balancing with Flow Block for LLM    
    ACM Special Interest Group on Data Communication, 2024             
