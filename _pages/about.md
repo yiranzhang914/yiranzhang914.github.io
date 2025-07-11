@@ -18,7 +18,12 @@ Satellite Network
 
 # Publications 
 ## Datacenter Networking and Computing
- (#: corresponding author)    
+ (#: corresponding author)  
+
+ - [**LCN'25**] Load Balancing for LLM traffic via Flow Block    
+   IEEE Conference on Local Computer Networks, 2025                   
+   Xingyi Li, **Yiran Zhang#**, Shuai Lyu, Shangguang Wang
+ 
  
 - [**ToN'25**] ACK-Driven Congestion Control for Lossless Ethernet    
    IEEE/ACM Transactions on Networking, 2025                   
@@ -32,7 +37,7 @@ Satellite Network
    IEEE Network (Volume: 38, Issue: 6, November 2024)             
    *Zhongjie Chen, Qingkai Meng,**Yiran Zhang**, Ziyang Zheng and Fengyuan Ren*
 
-- [**EuroMLSys'24**]FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission     
+- [**EuroMLSys'24**] FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission     
   EuroSys Workshop on Machine Learning and Systems                 
    *Zeling Zhang, Dongqi Cai,**Yiran Zhang**, Mengwei Xu, Shangguang Wang and Ao Zhou*
 
@@ -100,6 +105,12 @@ Satellite Network
    
   
 ## Satellite Networking and Computing
+
+- [**TSC'25**] SLICE: Energy-Efficient Satellite-Ground Co-Inference via Layer-Wise Scheduling Optimization    
+   IEEE Transactions on Service Computing, 2025             
+   *Yijie Chen, Qiyang Zhang, Ruolin Xing, Yuanzhe Li, Xiao Ma, Yiran Zhang, Ao Zhou, Shangguang Wang*
+
+
 - [**SIGCOMM'24**] (poster) An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links    
    ACM Special Interest Group on Data Communication, 2024             
    *Zuo Zhu, Ruolin Xing, **Yiran Zhang**, Chaoxin Yu, Ao Zhou, Shangguang Wang*
