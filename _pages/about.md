@@ -22,7 +22,7 @@ Satellite Network
 
  - [**LCN'25**] Load Balancing for LLM traffic via Flow Block    
    IEEE Conference on Local Computer Networks, 2025                   
-   Xingyi Li, **Yiran Zhang#**, Shuai Lyu, Shangguang Wang
+   *Xingyi Li, **Yiran Zhang#**, Shuai Lyu, Shangguang Wang*
  
  
 - [**ToN'25**] ACK-Driven Congestion Control for Lossless Ethernet    
@@ -108,7 +108,7 @@ Satellite Network
 
 - [**TSC'25**] SLICE: Energy-Efficient Satellite-Ground Co-Inference via Layer-Wise Scheduling Optimization    
    IEEE Transactions on Service Computing, 2025             
-   *Yijie Chen, Qiyang Zhang, Ruolin Xing, Yuanzhe Li, Xiao Ma, Yiran Zhang, Ao Zhou, Shangguang Wang*
+   *Yijie Chen, Qiyang Zhang, Ruolin Xing, Yuanzhe Li, Xiao Ma, **Yiran Zhang**, Ao Zhou, Shangguang Wang*
 
 
 - [**SIGCOMM'24**] (poster) An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links    
