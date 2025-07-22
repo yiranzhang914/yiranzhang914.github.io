@@ -146,14 +146,14 @@ National Scholarship in BUPT, 2014, 2015, 2016
 
 # Services
 
-**Program Co-Chair**
+**Program Co-Chair**   
 ACM CoNEXT 2025 Workshop on In-Network Computing and AI for Distributed Systems (INCAS)   
    
-**Technical Program Committee**
+**Technical Program Committee**   
 NSDI 2025   
 ICA3PP 2024,2025      
 
-**Journal Reviewer**
+**Journal Reviewer**   
 IEEE/ACM Transactions on Networking
 IEEE Transactions on Network and Service Management
 IEEE Transactions on Network Science and Engineering
