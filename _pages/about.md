@@ -136,7 +136,7 @@ Satellite Network
 # Honors and Awards
 N2Women Rising Star, 2024    
 IEEE TCCLD Technology Innovation Award, 2022  
-IEEE TCSVC Early Carrer Award, 2022  
+IEEE TCSVC Early Career Award, 2022  
 Euro-Par Best Paper Award, 2022  
 Graduate Launch Award (Silver award), Tsinghua University, 2022  
 Outstanding Graduate, Institute for Network Sciences and Cyberspace, Tsinghua University, 2022  
@@ -145,13 +145,17 @@ SIGCOMM Travel Grant, 2018
 National Scholarship in BUPT, 2014, 2015, 2016 
 
 # Services
-Program committee:   
+
+**Program Co-Chair**
+ACM CoNEXT 2025 Workshop on In-Network Computing and AI for Distributed Systems (INCAS)   
+   
+**Technical Program Committee**
 NSDI 2025   
-ICA3PP 2024,2025
+ICA3PP 2024,2025      
 
+**Journal Reviewer**
+IEEE/ACM Transactions on Networking
+IEEE Transactions on Network and Service Management
+IEEE Transactions on Network Science and Engineering
 
-
-# Links
-[Materials (keep updating)](https://yi-ran.github.io/2019/03/27/Useful-links/)  
-[Yiran Blog (keep updating)](https://yi-ran.github.io/)  
 
