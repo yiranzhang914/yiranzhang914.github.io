@@ -154,8 +154,8 @@ NSDI 2025
 ICA3PP 2024,2025      
 
 **Journal Reviewer**   
-IEEE/ACM Transactions on Networking
-IEEE Transactions on Network and Service Management
+IEEE/ACM Transactions on Networking   
+IEEE Transactions on Network and Service Management   
 IEEE Transactions on Network Science and Engineering
 
 
