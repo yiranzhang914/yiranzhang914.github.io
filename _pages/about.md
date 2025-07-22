@@ -151,7 +151,8 @@ ACM CoNEXT 2025 Workshop on In-Network Computing and AI for Distributed Systems 
    
 **Technical Program Committee**   
 NSDI 2025   
-ICA3PP 2024,2025      
+ICA3PP 2024,2025   
+1st ACM Workshop on Satellite Communication   
 
 **Journal Reviewer**   
 IEEE/ACM Transactions on Networking   
