@@ -31,7 +31,7 @@ Satellite Network
 
 - [**INFOCOM'25**] ScalaTap: Scalable Outbound Rate Limiting in Public Cloud    
    International Conference on Computer Communications, 2025      
-   *Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, **Yiran Zhang**, Bo Wang, Wei Li, Fengyuan*
+   *Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, **Yiran Zhang**, Bo Wang, Wei Li, Fengyuan Ren*
  
 - [**SIGCOMM'24**] (poster) Adaptive Load Balancing with Flow Block for LLM    
    ACM Special Interest Group on Data Communication, 2024             
