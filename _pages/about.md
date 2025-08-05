@@ -28,6 +28,10 @@ Satellite Network
 - [**ToN'25**] ACK-Driven Congestion Control for Lossless Ethernet    
    IEEE/ACM Transactions on Networking, 2025                   
    **Yiran Zhang**, Qingkai Meng, Chaolei Hu, Hu Zhang, Shangguang Wang and Fengyuan Ren
+
+- [**INFOCOM'25**] ScalaTap: Scalable Outbound Rate Limiting in Public Cloud    
+   International Conference on Computer Communications, 2025      
+   *Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, **Yiran Zhang**, Bo Wang, Wei Li, Fengyuan*
  
 - [**SIGCOMM'24**] (poster) Adaptive Load Balancing with Flow Block for LLM    
    ACM Special Interest Group on Data Communication, 2024             
@@ -158,5 +162,5 @@ ICA3PP 2024,2025
 IEEE/ACM Transactions on Networking   
 IEEE Transactions on Network and Service Management   
 IEEE Transactions on Network Science and Engineering
-
+IEEE Transactions on Cloud Computing
 
