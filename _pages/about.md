@@ -170,6 +170,6 @@ ICA3PP 2024,2025
 **Journal Reviewer**   
 IEEE/ACM Transactions on Networking   
 IEEE Transactions on Network and Service Management   
-IEEE Transactions on Network Science and Engineering
+IEEE Transactions on Network Science and Engineering     
 IEEE Transactions on Cloud Computing
 
