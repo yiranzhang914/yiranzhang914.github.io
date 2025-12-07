@@ -119,6 +119,12 @@ Satellite Network
   
 ## Satellite Networking and Computing
 
+
+- [**INFOCOM'26**] Enabling Efficient Transmission of Satellite-to-Ground Downlinks via Throughput Prediction    
+   International Conference on Computer Communications, 2026      
+   *Geyang Li, Li Zhang, Xinyu Lu, Chuanxiu Chi, Shangguang Wang, **Yiran Zhang#***
+
+
 - [**TSC'25**] SLICE: Energy-Efficient Satellite-Ground Co-Inference via Layer-Wise Scheduling Optimization    
    IEEE Transactions on Service Computing, 2025             
    *Yijie Chen, Qiyang Zhang, Ruolin Xing, Yuanzhe Li, Xiao Ma, **Yiran Zhang**, Ao Zhou, Shangguang Wang*
