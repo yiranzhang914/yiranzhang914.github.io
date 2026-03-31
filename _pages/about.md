@@ -19,6 +19,10 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)  
+
+  - [**NSDI'26**] SwiftEP: Accelerating MoE Inference with Buffer Fusion and TMA Offloading    
+   USENIX Symposium on Networked Systems Design and Implementation, 2026                    
+   *Xingyi Li, Yadong Liu, Xiaojie Huang, **Yiran Zhang#**, Shuai Wang, Shangguang Wang, Zhehao Lin, Yinben Xia, et al*
  
   - [**INFOCOM'26 ICCN**] Reflex: Enhancing Delay-Based RDMA Congestion Control for Cross-Datacenter Networks    
    International Conference on Computer Communications, 2026, ICCN                    
