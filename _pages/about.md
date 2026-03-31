@@ -19,6 +19,14 @@ Satellite Network
 # Publications 
 ## Datacenter Networking and Computing
  (#: corresponding author)  
+ 
+  - [**INFOCOM'26 ICCN**] Reflex: Enhancing Delay-Based RDMA Congestion Control for Cross-Datacenter Networks    
+   International Conference on Computer Communications, 2026, ICCN                    
+   *Jiaxue Liu, Xingjian Zhang, **Yiran Zhang#**, Shangguang Wang*
+
+  - [**INFOCOM'26 CNC**] DLBF: A Dynamic Load Balancing Framework Resilient to Packet Reordering for RDMA    
+   International Conference on Computer Communications, 2026, CNC                    
+   *Xingjian Zhang, Jiaxue Liu, **Yiran Zhang#**, Hu Zhang, Shangguang Wang*
 
   - [**IoTJ'25**] An RDMA Congestion Control Enhancement Framework for Edge Datacenters    
    IEEE Internet of Things Journal, 2025                   
