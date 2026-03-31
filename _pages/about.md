@@ -74,7 +74,7 @@ Satellite Network
    IEEE Network Operations and Management Symposium, 2024             
    *Tianshi Wang,**Yiran Zhang#**, Ao Zhou and Shangguang Wang*
   
-- [**<font color=red>NSDI'24</font>**] Revisiting Congestion Control for Lossless Ethernet        
+- [**NSDI'24**] Revisiting Congestion Control for Lossless Ethernet        
    USENIX Symposium on Networked Systems Design and Implementation, 2024       
    ***Yiran Zhang**, Qingkai Meng, Chaolei Hu and Fengyuan Ren*
   
@@ -104,7 +104,7 @@ Satellite Network
     *Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren*    
    *<font color=blue> Awarded Best Paper!</font>*     
      
-- [**<font color=red>SIGCOMM'21</font>**] Congestion Detection in Lossless Networks      
+- [**SIGCOMM'21>**] Congestion Detection in Lossless Networks      
     ACM Special Interest Group on Data Communication, 2021         
   ***Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren*
   
@@ -150,7 +150,7 @@ Satellite Network
    International Conference on Web Services, 2024      
    *Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang*
   
-- [**<font color=red>MOBICOM'24</font>**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis         
+- [**MOBICOM'24**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis         
    International Conference on Mobile Computing and Networking, 2024        
    *Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li, **Yiran Zhang**, Feng Qian, Shangguang Wang*
   
