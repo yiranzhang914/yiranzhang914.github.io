@@ -165,7 +165,7 @@ Satellite Network
 
 
 # Honors and Awards
-N2Women Rising Star, 2024    
+Top 10 N2Women Rising Star, 2024    
 IEEE TCCLD Technology Innovation Award, 2022  
 IEEE TCSVC Early Career Award, 2022  
 Euro-Par Best Paper Award, 2022  
@@ -181,13 +181,12 @@ National Scholarship in BUPT, 2014, 2015, 2016
 ACM CoNEXT 2025 Workshop on In-Network Computing and AI for Distributed Systems (INCAS)   
    
 **Technical Program Committee**   
-NSDI 2025   
+NSDI 2025,2027   
 ICA3PP 2024,2025   
 1st ACM Workshop on Satellite Communication   
 
 **Journal Reviewer**   
-IEEE/ACM Transactions on Networking   
-IEEE Transactions on Network and Service Management   
-IEEE Transactions on Network Science and Engineering     
+IEEE/ACM Transactions on Networking
+IEEE Transactions on Mobile Computing
 IEEE Transactions on Cloud Computing
 
