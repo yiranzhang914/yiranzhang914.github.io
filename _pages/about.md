@@ -21,7 +21,7 @@ Satellite Network
  (#: corresponding author)  
 
   - [**APNet'26**] Semantic-Aware Loss Recovery for Cross-Datacenter Model Training      
-    Asia-Pacific Workshop on Networking, 2026
+    Asia-Pacific Workshop on Networking, 2026      
     *Xingjian Zhang, Yutong Zhao, Jiaxue Liu, Lizhuang Tan, Shangguang Wang, **Yiran Zhang#***      
 
   - [**NSDI'26**] SwiftEP: Accelerating MoE Inference with Buffer Fusion and TMA Offloading    
