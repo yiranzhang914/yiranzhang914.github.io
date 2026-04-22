@@ -20,6 +20,10 @@ Satellite Network
 ## Datacenter Networking and Computing
  (#: corresponding author)  
 
+  - [**APNet'26**] Semantic-Aware Loss Recovery for Cross-Datacenter Model Training      
+    Asia-Pacific Workshop on Networking, 2026
+    *Xingjian Zhang, Yutong Zhao, Jiaxue Liu, Lizhuang Tan, Shangguang Wang, **Yiran Zhang#***      
+
   - [**NSDI'26**] SwiftEP: Accelerating MoE Inference with Buffer Fusion and TMA Offloading    
    USENIX Symposium on Networked Systems Design and Implementation, 2026                    
    *Xingyi Li, Yadong Liu, Xiaojie Huang, **Yiran Zhang#**, Shuai Wang, Shangguang Wang, Zhehao Lin, Yinben Xia, et al*
