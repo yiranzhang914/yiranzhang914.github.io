@@ -18,7 +18,11 @@ Satellite Network
 
 # Publications 
 ## Datacenter Networking and Computing
- (#: corresponding author)  
+ (#: corresponding author)
+
+  - [**IWQoS'26**] PRO: Deterministic Load Balancing for AI Datacenter Network      
+    IEEE/ACM International Symposium on Quality of Service, 2026      
+    ***Yiran Zhang**, Qingkai Meng, Yadong Liu, Xiangyu Han, Xiao Ma, Shangguang Wang*   
 
   - [**APNet'26**] Semantic-Aware Loss Recovery for Cross-Datacenter Model Training      
     Asia-Pacific Workshop on Networking, 2026      
