@@ -13,11 +13,11 @@ I’m an assistant professor at Beijing University of Posts and Telecommunicatio
 Research Interests
 ======
 Traffic Control and Management in Computer Networks  
-Datacenter Network  
+AI Datacenter Network  
 Satellite Network
 
 # Publications 
-## Datacenter Networking and Computing
+
  (#: corresponding author)
 
   - [**IWQoS'26**] PRO: Deterministic Load Balancing for AI Datacenter Network      
@@ -31,6 +31,12 @@ Satellite Network
   - [**NSDI'26**] SwiftEP: Accelerating MoE Inference with Buffer Fusion and TMA Offloading    
    USENIX Symposium on Networked Systems Design and Implementation, 2026                    
    *Xingyi Li, Yadong Liu, Xiaojie Huang, **Yiran Zhang#**, Shuai Wang, Shangguang Wang, Zhehao Lin, Yinben Xia, et al*
+
+
+  - [**INFOCOM'26**] Enabling Efficient Transmission of Satellite-to-Ground Downlinks via Throughput Prediction    
+   International Conference on Computer Communications, 2026      
+   *Geyang Li, Li Zhang, Xinyu Lu, Chuanxiu Chi, Shangguang Wang, **Yiran Zhang#***
+    
  
   - [**INFOCOM'26 ICCN**] Reflex: Enhancing Delay-Based RDMA Congestion Control for Cross-Datacenter Networks    
    International Conference on Computer Communications, 2026, ICCN                    
@@ -57,6 +63,10 @@ Satellite Network
    International Conference on Computer Communications, 2025      
    *Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, **Yiran Zhang**, Bo Wang, Wei Li, Fengyuan Ren*
 
+
+- [**TSC'25**] SLICE: Energy-Efficient Satellite-Ground Co-Inference via Layer-Wise Scheduling Optimization    
+   IEEE Transactions on Service Computing, 2025             
+   *Yijie Chen, Qiyang Zhang, Ruolin Xing, Yuanzhe Li, Xiao Ma, **Yiran Zhang**, Ao Zhou, Shangguang Wang*
 
 - [**ICNP'24**]  DockRDMA: Hybrid RDMA Virtualization for Containerized Clouds      
     IEEE International Conference on Network Protocols, 2024       
@@ -89,6 +99,22 @@ Satellite Network
 - [**INFOCOM'24**] Explicit Dropping Notification in Data Centers    
    International Conference on Computer Communications, 2024      
    *Qingkai Meng, **Yiran Zhang#**, Chaolei Hu, Bo Wang and Fengyuan Ren*
+
+- [**SIGCOMM'24**] (poster) An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links    
+   ACM Special Interest Group on Data Communication, 2024             
+   *Zuo Zhu, Ruolin Xing, **Yiran Zhang**, Chaoxin Yu, Ao Zhou, Shangguang Wang*
+  
+- [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing        
+   International Conference on Web Services, 2024      
+   *Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang*
+  
+- [**MOBICOM'24**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis         
+   International Conference on Mobile Computing and Networking, 2024        
+   *Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li, **Yiran Zhang**, Feng Qian, Shangguang Wang*
+  
+- [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects        
+   International Conference on Computer Communications, 2024      
+   *Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu*
   
 - [**ToN'23**] Switch-assistant Loss Recovery for RDMA Transport Control            
    IEEE/ACM Transactions on Networking, 2023      
@@ -106,6 +132,11 @@ Satellite Network
    International Conference on Web Services, 2023      
    *Ao Zhou, Sisi Li, Xiao Ma, **Yiran Zhang**, and Shangguang Wang*    
    *<font color=blue> Awarded Best Paper!</font>*
+
+
+- [**Satcom'23**] SABM: Adaptive Backup Mechanism for Satellite Services         
+    1st ACM Workshop on Satellite Communication, 2023       
+   *Chuanxiu Chi, **Yiran Zhang**, Qibo Sun, Shangguang Wang*
   
 - [**Euro-Par'22**] CrossDBT: An LLVM-based User-level Dynamic Binary Translation Emulator       
     European Conference on Parallel Processing, 2022           
@@ -137,43 +168,10 @@ Satellite Network
     *Zhaogeng Li, Jun Bi, **Yiran Zhang**, Chuang Wang*
    
   
-## Satellite Networking and Computing
-
-
-- [**INFOCOM'26**] Enabling Efficient Transmission of Satellite-to-Ground Downlinks via Throughput Prediction    
-   International Conference on Computer Communications, 2026      
-   *Geyang Li, Li Zhang, Xinyu Lu, Chuanxiu Chi, Shangguang Wang, **Yiran Zhang#***
-
-
-- [**TSC'25**] SLICE: Energy-Efficient Satellite-Ground Co-Inference via Layer-Wise Scheduling Optimization    
-   IEEE Transactions on Service Computing, 2025             
-   *Yijie Chen, Qiyang Zhang, Ruolin Xing, Yuanzhe Li, Xiao Ma, **Yiran Zhang**, Ao Zhou, Shangguang Wang*
-
-
-- [**SIGCOMM'24**] (poster) An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links    
-   ACM Special Interest Group on Data Communication, 2024             
-   *Zuo Zhu, Ruolin Xing, **Yiran Zhang**, Chaoxin Yu, Ao Zhou, Shangguang Wang*
-  
-- [**ICWS'24**] Flexible Shadow: Enhancing Service Reliability in Resource-Constrained Edge Computing        
-   International Conference on Web Services, 2024      
-   *Lipei Yang, Ao Zhou, Xiao Ma, **Yiran Zhang**, Yuanzhe Li and Shangguang Wang*
-  
-- [**MOBICOM'24**] Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis         
-   International Conference on Mobile Computing and Networking, 2024        
-   *Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li, **Yiran Zhang**, Feng Qian, Shangguang Wang*
-  
-- [**INFOCOM'24**] Resource-efficient In-orbit Detection of Earth Objects        
-   International Conference on Computer Communications, 2024      
-   *Qiyang Zhang, Xin Yuan, Ruolin Xing, **Yiran Zhang**, Zimu Zheng, Xiao Ma, Mengwei Xu*
-  
-- [**Satcom'23**] SABM: Adaptive Backup Mechanism for Satellite Services    
-    1st ACM Workshop on Satellite Communication, 2023       
-   *Chuanxiu Chi, **Yiran Zhang**, Qibo Sun, Shangguang Wang*
-  
-
+ 
 
 # Honors and Awards
-Top 10 N2Women Rising Star, 2024    
+IEEE Communication Society Top 10 N2Women Rising Star, 2024    
 IEEE TCCLD Technology Innovation Award, 2022  
 IEEE TCSVC Early Career Award, 2022  
 Euro-Par Best Paper Award, 2022  
@@ -189,9 +187,9 @@ National Scholarship in BUPT, 2014, 2015, 2016
 ACM CoNEXT 2025 Workshop on In-Network Computing and AI for Distributed Systems (INCAS)   
    
 **Technical Program Committee**   
-NSDI 2025,2027   
+NSDI 2025, 2027   
 ICA3PP 2024,2025   
-1st ACM Workshop on Satellite Communication,2023   
+1st ACM Workshop on Satellite Communication, 2023   
 
 **Journal Reviewer**   
 IEEE/ACM Transactions on Networking      
