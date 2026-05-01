@@ -143,7 +143,7 @@ Satellite Network
     *Wei Li, Xiaohui Luo, **Yiran Zhang**, Qingkai Meng and Fengyuan Ren*    
    *<font color=blue> Awarded Best Paper!</font>*     
      
-- [**SIGCOMM'21>**] Congestion Detection in Lossless Networks      
+- [**SIGCOMM'21**] Congestion Detection in Lossless Networks      
     ACM Special Interest Group on Data Communication, 2021         
   ***Yiran Zhang**, Yifan Liu, Qingkai Meng, Fengyuan Ren*
   
